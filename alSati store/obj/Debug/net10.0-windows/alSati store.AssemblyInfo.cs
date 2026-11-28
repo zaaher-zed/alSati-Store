@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("alSati store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb7ef5f98de32d69a78fe08914ffbd99552ed4db")]
 [assembly: System.Reflection.AssemblyProductAttribute("alSati store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("alSati store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

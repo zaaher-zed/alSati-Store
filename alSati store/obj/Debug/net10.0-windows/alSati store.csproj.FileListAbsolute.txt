@@ -1,0 +1,33 @@
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\alSati store.exe
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\alSati store.deps.json
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\alSati store.runtimeconfig.json
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\alSati store.runtimeconfig.dev.json
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\alSati store.dll
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\alSati store.pdb
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati store.csproj.AssemblyReference.cache
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati_store.MainForm.resources
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati_store.GameDetailsPage.resources
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati_store.LibraryPage.resources
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati_store.Properties.Resources.resources
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati_store.StorePage.resources
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati_store.WishlistPage.resources
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati store.csproj.GenerateResource.cache
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati store.AssemblyInfoInputs.cache
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati store.AssemblyInfo.cs
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati store.csproj.CoreCompileInputs.cache
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati store.sourcelink.json
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati s.445D80E1.Up2Date
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati store.dll
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\refint\alSati store.dll
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati store.pdb
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati store.genruntimeconfig.cache
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\ref\alSati store.dll
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati_store.AuthForm.resources
+C:\Users\USER\github\alSati store\alSati store\obj\Debug\net10.0-windows\alSati_store.AddGamePage.resources
+C:\Users\USER\github\alSati store\alSati store\bin\Debug\net10.0-windows\alSati store.dll.config
